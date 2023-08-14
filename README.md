@@ -1,1 +1,2 @@
-wco's task1 : responsive
+提出課題1：レスポンシブ対応
+
