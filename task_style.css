@@ -67,6 +67,14 @@
   
   @media screen and (max-width: 768px){
     main {
+        width: 100%;
+        display: block;
         flex-direction: column;
+    }
+
+    .step-box {
+        width: 90%;
+        margin-top: 20px;
+        position: sticky;
     }
   }
